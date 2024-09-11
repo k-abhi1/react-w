@@ -1,9 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App.jsx'
+import App from './component/App.jsx'
 import './index.css'
-import Footer from './Footer.jsx'
-import Navbar from './Navbar.jsx'
+import Footer from './component/Footer.jsx'
+import Navbar from './component/Navbar.jsx'
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
