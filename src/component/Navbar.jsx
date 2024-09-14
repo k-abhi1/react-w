@@ -59,10 +59,10 @@ const Navbar = (props) => {
           </nav>
           <div className="navbar-buttons1">
             <button className="navbar-action11 thq-button-filled thq-button-animated">
-              <span className="thq-body-small">Action 1</span>
+              <span className="thq-body-small">Login</span>
             </button>
             <button className="navbar-action21 thq-button-outline thq-button-animated">
-              <span className="thq-body-small">Action 2</span>
+              <span className="thq-body-small">sing up</span>
             </button>
           </div>
         </div>
@@ -111,7 +111,7 @@ Navbar.defaultProps = {
   link5: 'Contact Us',
   logoAlt: 'PMSSS Logo',
   logoSrc:
-    'https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/84ec08e8-34e9-42c7-9445-d2806d156403/fac575ac-7a41-484f-b7ac-875042de11f8?org_if_sml=1&force_format=original',
+    'https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/84ec08e8-34e9-42c7-9445-d2806d156403/fac575ac-7`41-484f-b7ac-875042de11f8?org_if_sml=1&force_format=original',
   action1: '/home',
   link3: 'Scholarship Programs',
 }

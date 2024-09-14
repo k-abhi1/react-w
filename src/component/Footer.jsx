@@ -333,7 +333,7 @@ Footer.defaultProps = {
   link2: 'About Us',
   link6: 'Terms and Conditions',
   cookiesLink: '/cookies-policy',
-  logoSrc: 'https://presentation-website-assets.teleporthq.io/logos/logo.png',
+  logoSrc: 'https://presentation-website-assets.teleporthq.io/logos/logo.pn',
   content3: '© 2023 PMSSS. All Rights Reserved.',
   link10: 'Careers',
   content2:

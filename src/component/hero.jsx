@@ -1,7 +1,7 @@
 // import React from 'react'
 
-// import Script from 'dangerous-html/react'
-// import PropTypes from 'prop-types'
+// // import Script from 'dangerous-html/react'
+// // import PropTypes from 'prop-types'
 
 // import './hero.css'
 
