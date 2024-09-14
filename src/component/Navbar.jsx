@@ -59,10 +59,10 @@ const Navbar = (props) => {
           </nav>
           <div className="navbar-buttons1">
             <button className="navbar-action11 thq-button-filled thq-button-animated">
-              <span className="thq-body-small">Login</span>
+              <span className="thq-body-small">Login<a href='Login.jsx'></a></span>
             </button>
             <button className="navbar-action21 thq-button-outline thq-button-animated">
-              <span className="thq-body-small">sing up</span>
+              <span className="thq-body-small">sign up</span>
             </button>
           </div>
         </div>
